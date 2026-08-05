@@ -1,0 +1,17 @@
+# Generated dataset -- regenerate via notebooks/01.migration_gravity_model.ipynb
+gravity_df.csv
+
+# Extracted intermediate data (created by the notebook at runtime)
+data/
+
+# Raw source files -- see README for download links, not tracked in git
+*.zip
+*.xlsx
+*.xls
+!chart/*.png
+
+# Jupyter / Python housekeeping
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
