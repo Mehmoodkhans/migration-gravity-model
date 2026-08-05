@@ -45,7 +45,7 @@ complete methodology record.
 │   ├── piece1_article_outline.md                # The article itself
 │   └── project_handoff_v2.md                    # Full methodology handoff document
 ├── chart/                                        # Generated visuals used in the article
-├── gitignore
+├── .gitignore
 └── README.md
 ```
 
