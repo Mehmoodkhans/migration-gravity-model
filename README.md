@@ -12,7 +12,13 @@ for the full writeup, and
 [`article/project_handoff_v2.md`](article/project_handoff_v2.md) for the
 complete methodology record.
 
-**Published article:** [Colonial Ties and the Shape of Global Migration — Medium](https://medium.com/@mehmood.vc/) *(link to be updated on publication)*
+## Published Articles
+
+**Piece 1 — The Empire That Never Left**
+> Colonial ties increase bilateral migration by ~3x — a gravity model analysis 
+> across 74,783 migration corridors and 230 countries.
+
+📖 [Read on Medium](https://medium.com/@mehmood.vc/the-empire-that-never-left-72cc1dc0b2ab)
 
 ---
 
