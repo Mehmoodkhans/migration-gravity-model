@@ -7,10 +7,7 @@ diagnostics, and the resulting article are in this repository.
 **Headline finding:** a shared colonial tie is associated with roughly
 three times more migration between two countries than an otherwise
 identical pair without one -- ahead of GDP, shared language, and distance.
-See [`article/piece1_article_outline.md`](article/piece1_article_outline.md)
-for the full writeup, and
-[`article/project_handoff_v2.md`](article/project_handoff_v2.md) for the
-complete methodology record.
+Read the full article on Medium: [The Empire That Never Left](https://medium.com/@mehmood.vc/the-empire-that-never-left-72cc1dc0b2ab)
 
 ## Published Articles
 
@@ -46,8 +43,7 @@ Published on Medium — [Read here](https://medium.com/@mehmood.vc/the-empire-th
 │   ├── 01.migration_gravity_model.ipynb                    # ETL pipeline: sources, merges, cleans the data
 │   └── 02.migration_gravity_analysis_piece1_final.ipynb    # Statistical analysis + Piece 1 visuals
 ├── article/
-│   ├── piece1_article_outline.md                # The article itself
-│   └── project_handoff_v2.md                    # Full methodology handoff document
+│   └── README.md                                # Published articles and series index
 ├── chart/                                        # Generated visuals used in the article
 ├── .gitignore
 └── README.md
@@ -99,8 +95,7 @@ Every non-obvious decision made in this project -- country-name
 reconciliation, the country-categorization pass, PPML over log-linear
 OLS, the panel-clustering fix, and each data-quality exclusion (UAE and
 other Gulf states, Malaysia's frozen figures, Germany's reporting gaps)
--- is documented in full in
-[`article/project_handoff_v2.md`](article/project_handoff_v2.md).
+-- is documented in full in the article itself: [The Empire That Never Left](https://medium.com/@mehmood.vc/the-empire-that-never-left-72cc1dc0b2ab)
 
 ---
 
