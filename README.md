@@ -118,7 +118,7 @@ other Gulf states, Malaysia's frozen figures, Germany's reporting gaps)
 This repository will be updated as the series develops:
 
 - **Piece 1** — Colonial ties and the shape of global migration *(this piece)*
-- **Piece 2** — UK outward migration and Brexit *(in progress)*
+- **Piece 2** — UK outward migration and Brexit *(published)*
 - **Piece 3** — French colonial corridors: Algeria, Morocco, Senegal *(planned)*
 - **Piece 4** — South Asian migration and the Gulf *(planned)*
 - **Piece 5** — The FIFA connection: does migration gravity predict
