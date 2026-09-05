@@ -17,7 +17,7 @@ Published on Medium — [Read here](https://medium.com/@mehmood.vc/the-empire-th
 **Piece 2 — Two Britains Revisited**
 Published on Medium — [Read here](https://medium.com/@mehmood.vc/two-britains-revisited-314c3ecf071b)
 
-*Piece 3 — coming soon**
+*Piece 3 — coming soon*
 ---
 
 ## Key Findings
