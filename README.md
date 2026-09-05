@@ -14,7 +14,10 @@ Read the full article on Medium: [The Empire That Never Left](https://medium.com
 **Piece 1 — The Empire That Never Left**
 Published on Medium — [Read here](https://medium.com/@mehmood.vc/the-empire-that-never-left-72cc1dc0b2ab)
 
-*Piece 2 — coming soon*
+**Piece 2 — Two Britains Revisited**
+Published on Medium — [Read here](https://medium.com/@mehmood.vc/two-britains-revisited-314c3ecf071b)
+
+*Piece 3 — coming soon**
 ---
 
 ## Key Findings
