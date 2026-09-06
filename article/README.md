@@ -16,4 +16,9 @@ Published on Medium — [Read here](https://medium.com/@mehmood.vc/two-britains-
 
 *Piece 4 — South Asian migration and the Gulf (planned)*
 
-*Piece 5 — The FIFA connection (planned)*
+*Piece 5 — The FIFA connection: does migration gravity predict 
+football diaspora? (planned)*
+
+> **Related:** [FIFA World Cup 2026 — Naturalization & Migration Analysis](https://github.com/Mehmoodkhans/fifa-world-cup-2026) 
+> — a standalone analysis of player origins across 48 squads, 
+> published separately.
