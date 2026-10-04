@@ -188,5 +188,5 @@ This repository will be updated as the series develops:
 
 Mehmood Ahmed Khan — Data Scientist & Analytics Engineer, Karachi, Pakistan
 GitHub: [github.com/Mehmoodkhans](https://github.com/Mehmoodkhans)
-LinkedIn: [linkedin.com/in/mehmood](https://linkedin.com/in/mehmood)
+LinkedIn: [linkedin.com/in/mehmood](https://linkedin.com/in/mehmoood)
 Medium: [@mehmood.vc](https://medium.com/@mehmood.vc)
